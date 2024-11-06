@@ -5,7 +5,7 @@
 <p align="left">This is <b>Sajib Hossain</b></p>
 <b>Glad to see you here..😇</b></br> 
 <h2 align="left">About me</h2>
-I am a result-driven and passionate Artificial Intelligence enthusiast with a strong background in programming, data analysis, and machine learning methods with experience for 2+ years in both research and industrial fields. Eager to work with a dynamic team and contribute to creative initiatives that use data-driven insights to produce state-of-the-art solutions for different Artificial Intelligence problems. I am searching for a demanding position where I can use my technical expertise and love of machine learning to solve real-world issues and advance as a professional in the industry.
+I am a result-driven and passionate Artificial Intelligence enthusiast with a strong background in programming, data analysis, and machine learning methods with experience for 3+ years in both research and industrial fields. Eager to work with a dynamic team and contribute to creative initiatives that use data-driven insights to produce state-of-the-art solutions for different Artificial Intelligence problems. I am searching for a demanding position where I can use my technical expertise and love of machine learning to solve real-world issues and advance as a professional in the industry.
 
 <br clear="both">
 
