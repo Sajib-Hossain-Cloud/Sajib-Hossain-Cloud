@@ -13,7 +13,6 @@ I am a result-driven and passionate Artificial Intelligence enthusiast with a st
   <img height="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 </div>
 <p align="left"></br>✨ Creating Machine Learning Solution Since 2021<br>📚 Currently learning: Generative AI,Docker, Cloud Computing, Vector Database<br>🎯 Goals: "Develop innovative Machine Learning solutions that enhance your business💼 efficiency and profit margins..🏢 "<br>🎮 Fun fact: <b>"Can sleep while sipping a cup of coffee."</b>
-<br>👨‍💻 All of my projects are available at https://github.com/Sajib-Hossain-Cloud </p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sajib-Hossain-Cloud/count.svg?"  />
 </div>
