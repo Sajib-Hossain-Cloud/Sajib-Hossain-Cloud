@@ -69,9 +69,10 @@ I am a result-driven and passionate Artificial Intelligence enthusiast with a st
 
 ###
 <h3 align="left">🔥   My Stats :</h3>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sajib-Hossain-Cloud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
- 
+
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajib-Hossain-Cloud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajib-Hossain-Cloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
   <h3 align="left">📊   Activities</h3>
@@ -81,9 +82,6 @@ I am a result-driven and passionate Artificial Intelligence enthusiast with a st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajib-Hossain-Cloud&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
-
-###
 <h2 align="left">🕵 Looking for my 📞📧☎️ </h2>
 
 <br clear="both">
