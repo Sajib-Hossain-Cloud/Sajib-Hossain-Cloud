@@ -2,29 +2,54 @@
 
 ###
 
-<p align="left">This is <b>Sajib Hossain</b></p>
-<b>Glad to see you here...😇</b></br> 
+<p align="left">This is Sajib Hossain<br><br>Glad to see you here...😇</p>
+
+###
+
 <h2 align="left">About me</h2>
-I am a result-driven and passionate Artificial Intelligence enthusiast with a strong background in programming, data analysis, and machine learning methods with experience for 4+ years in both research and industrial fields. Eager to work with a dynamic team and contribute to creative initiatives that use data-driven insights to produce state-of-the-art solutions for different Artificial Intelligence problems. I am searching for a demanding position where I can use my technical expertise and love of machine learning to solve real-world issues and advance as a professional in the industry.
+
+###
+
+<p align="left">I am a result-driven and passionate Artificial Intelligence enthusiast with a strong background in programming, data analysis, and machine learning methods with experience for 4+ years in both research and industrial fields. Eager to work with a dynamic team and contribute to creative initiatives that use data-driven insights to produce state-of-the-art solutions for different Artificial Intelligence problems. I am searching for a demanding position where I can use my technical expertise and love of machine learning to solve real-world issues and advance as a professional in the industry.</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+</div>
+
+###
+
+<p align="left">✨ Creating Machine Learning Solution Since 2021<br>📚 Currently learning: Generative AI,Docker, Cloud Computing, Vector Database, Multi Agent Collaboration.<br>🎯 Goals: "Develop innovative Machine Learning solutions that enhance your business💼 efficiency and profit margins..🏢 "<br>🎮 Fun fact: "Can sleep while sipping a cup of coffee."</p>
+
+###
 
 <br clear="both">
 
-<div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&reversal=true&text=DAILY%20VISITOR&fontSize=26&fontColor=56616B&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<p align="left"></br>✨ Creating Machine Learning Solution Since 2021<br>📚 Currently learning: Generative AI,Docker, Cloud Computing, Vector Database, Multi Agent Collaboration.<br>🎯 Goals: "Develop innovative Machine Learning solutions that enhance your business💼 efficiency and profit margins..🏢 "<br>🎮 Fun fact: <b>"Can sleep while sipping a cup of coffee."</b>
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Sajib-Hossain-Cloud/count.svg?"  />
+  <img src="https://count.getloli.com/@:Sajib-Hossain-Cloud?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-<h2 align="left">🧑‍💻️ Language and tools proficiency 🛠</h2>
+###
+
+<h3 align="left">🧑‍💻️ Language and tools proficiency 🛠</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
   <img width="12" />
@@ -36,83 +61,91 @@ I am a result-driven and passionate Artificial Intelligence enthusiast with a st
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
 
 ###
 
+<h3 align="left">🔥 My Stats :</h3>
 
-<h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRlMDRpcjFzZHB4NHZxMWM1OWkyNnFjN2I1bDh2NHV3bmUwZ3RodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif"  />
-
+###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajib-Hossain-Cloud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajib-Hossain-Cloud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" src="https://camo.githubusercontent.com/833e523478a2cda6d8eb5ff8e8a8c256afd8de81a4d38068877d1bb4d9fbbb2e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d526c4d445270636a467a5a4842344e485a784d574d314f576b794e6e466a4e324931624468324e485633626d55775a33526f64695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f484347657a4770765174447239336a7231542f67697068792e676966"  />
+</div>
 
-  <h3 align="left">📊   Activities</h3>
-<br clear="both">
+###
 
-  <div align="center">
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajib-Hossain-Cloud&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sajib-Hossain-Cloud&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=3&order=3" height="100" alt="streak graph"  />
+</div>
 
-
-<h2 align="left">🕵 Looking for my 📞📧☎️ </h2>
+###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sajib-Hossain-Cloud/Sajib-Hossain-Cloud/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajib-Hossain-Cloud&radius=16&theme=redical&area=true&order=5" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h4 align="left">🕵 Looking for my 📞📧☎️</h4>
+
+###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sajib-hossain-b189ba189/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="sajib.hossain.limon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/SSSaaajjjiiib/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/sajib-hossain-ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
+###
