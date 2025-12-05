@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every day at midnight UTC
+  workflow_dispatch:      # allow manual run
+
+# IMPORTANT: allow the workflow to push to the repo
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the repo (needed for git operations later)
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Generate the snake SVG
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sajib-Hossain-Cloud
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # 3. Push the generated file to the `output` branch
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
