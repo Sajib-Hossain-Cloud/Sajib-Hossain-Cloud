@@ -98,8 +98,6 @@ I am a result-driven and passionate Artificial Intelligence enthusiast with a st
   <div align="center">
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajib-Hossain-Cloud&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
- 
-</div>
 
 
 <h2 align="left">🕵 Looking for my 📞📧☎️ </h2>
