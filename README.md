@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 </div>
 
 ###
@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sajib-Hossain-Cloud&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=3&order=3" height="100" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sajib-Hossain-Cloud&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=3&order=3" height="300" alt="streak graph"  />
 </div>
 
 ###
@@ -133,7 +133,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajib-Hossain-Cloud&radius=16&theme=redical&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajib-Hossain-Cloud&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
