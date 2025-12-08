@@ -125,11 +125,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sajib-Hossain-Cloud/Sajib-Hossain-Cloud/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
