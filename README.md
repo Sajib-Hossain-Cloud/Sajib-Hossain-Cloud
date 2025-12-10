@@ -27,7 +27,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&reversal=true&text=DAILY%20VISITOR&fontSize=26&fontColor=56616B&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&reversal=true&text=TOTAL%20VISITOR&fontSize=26&fontColor=56616B&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
