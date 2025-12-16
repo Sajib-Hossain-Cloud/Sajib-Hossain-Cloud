@@ -117,16 +117,12 @@
   <img height="200" src="https://camo.githubusercontent.com/833e523478a2cda6d8eb5ff8e8a8c256afd8de81a4d38068877d1bb4d9fbbb2e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d526c4d445270636a467a5a4842344e485a784d574d314f576b794e6e466a4e324931624468324e485633626d55775a33526f64695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f484347657a4770765174447239336a7231542f67697068792e676966"  />
 </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sajib-Hossain-Cloud&show_icons=true&count_private=true&&theme=dracula&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sajib-Hossain-Cloud&show_icons=true&count_private=true&&theme=dracula&hide_border=true" align="center"/></div>  
 
 ###
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sajib-Hossain-Cloud/Sajib-Hossain-Cloud/output/snake.svg" alt="Snake animation" />
 
-###
 ###
 
 <div align="center">
